@@ -1,2 +1,2 @@
-# MyFrontendDataCollection
+# 我的前端资料收录、整理
 记录整理日常收集的前端资料

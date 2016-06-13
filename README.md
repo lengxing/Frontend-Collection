@@ -1,4 +1,4 @@
-# 我的前端资料收录、整理
+# 日常前端资料收录、整理
 记录整理日常收集的前端资料
 
 
@@ -91,3 +91,5 @@ from  zhihu, to be arranged
 - [前端网址导航](http://whycss.com/)
 - [又一个前端网址导航](http://blog.w3cub.com/navs/)
 - [前端导航网](http://jsdig.com/)
+
+#第二部分（整理中……）

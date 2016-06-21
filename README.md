@@ -57,7 +57,7 @@
 	- [JX](http://alloyteam.github.io/JX/)(腾讯web前端框架)
 	- [Spine.js](http://spinejs.com/)
 - MVVM应用框架：
-	- [AngularJS](https://www.angularjs.org/)(有时候会被归结到MVC框架中)
+	- [AngularJS](https://www.angularjs.org/)
 	- [Vue.js](http://vuejs.org/)
 - MVP框架: [Riot.js](http://riotjs.com/)
 - 前端开发框架：

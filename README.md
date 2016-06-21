@@ -5,7 +5,7 @@
 
 #第一部分（整理中……）
 
-###Javascript部分
+### >Javascript部分
 
 #### ①相关书籍
 
@@ -77,7 +77,7 @@
 - HTML5开源免费游戏框架:
 	- [Egret](http://www.egret.com/)
 
-###CSS部分
+### >CSS部分
 
 #### ①相关书籍
 
@@ -89,10 +89,16 @@
 
 - 预设css3动画库：[animate.css](http://daneden.github.io/animate.css/)
 
-###HTML部分
+### >HTML部分
 
 #### ①相关书籍
 
 #### ②博文精贴
 
-###其他
+### >其他
+
+#### ①浏览器相关
+
+- #####博文精贴
+
+	- [How browsers work--Behind the scenes of modern web browsers (前端必读)](http://www.cnblogs.com/cnwebdeveloper/articles/2234423.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

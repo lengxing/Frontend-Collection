@@ -70,6 +70,7 @@
 - MVVM应用框架：
 	- [AngularJS](https://www.angularjs.org/)
 	- [Vue.js](http://vuejs.org/)
+	- [avalonJS](http://avalonjs.github.io/)
 - MVP框架: [Riot.js](http://riotjs.com/)
 - 前端开发框架：
 	- [Bootstrap](http://bootstrap.evget.com/)

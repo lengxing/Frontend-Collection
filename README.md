@@ -13,24 +13,35 @@
 
 #### ③框架精选
 
-#### 插件
+##### 插件
 
 - 页面弹窗插件：[Layer](http://layer.layui.com/)
-- 日期时间选择器插件：[bootstrap-datetimepicker](http://www.bootcss.com/p/bootstrap-datetimepicker/demo.htm)
-- 日期时间段选择器插件：[DateRange](https://github.com/lengxing/Frontend-Collection/tree/master/dateRange)
+- 日期时间选择器插件：
+	- [bootstrap-datetimepicker](http://www.bootcss.com/p/bootstrap-datetimepicker/demo.htm)
+	- [DateRange](https://github.com/lengxing/Frontend-Collection/tree/master/dateRange)(时间段选择)
+	- [datetimepicker](https://github.com/xdan/datetimepicker)
 - 跨浏览器复制插件：[jQuery ZeroClipboard](https://github.com/lengxing/Frontend-Collection/tree/master/zClip)
-- 表单校验插件：[niceValidator](http://validator.niceue.com/)
-- 地域选择器插件：[Region](https://github.com/lengxing/region)
+- 表单校验插件：
+	- [niceValidator](http://validator.niceue.com/)
+	- [Bootstrap Form Validation](http://formvalidation.io/)
+- 地域选择器插件：
+	- [Region](https://github.com/lengxing/region)
+	- [Chineserp](http://xixilive.github.io/chineserp-jquery/)
 - 图表插件：
 	- [echarts](http://echarts.baidu.com/)
 	- [Highcharts](http://www.hcharts.cn/)
+	- [Chart.js](http://www.chartjs.org/)
 - 焦点图/幻灯片插件：[SuperSlide](http://www.superslide2.com/)
 - 图片弹出框插件：[fancyBox](http://www.fancybox.net/)
 - HTML5视频播放器插件：[Video.js](http://videojs.com/)
 - 全屏滚动插件：[fullPage.js](https://github.com/lengxing/fullPage.js)
 - 颜色选择器插件：[spectrum](http://bgrins.github.io/spectrum/)
+- 排序插件：
+	- [Sortable](http://rubaxa.github.io/Sortable/)
+- 延时加载插件：[jquery.lazyload.js](http://www.appelsiini.net/projects/lazyload)
+- 通知插件: [toastr](http://codeseven.github.io/toastr/)
 
-#### 工具库
+##### 工具库
 
 - 模板引擎库：[Mustache](https://github.com/janl/mustache.js)
 - UI库：
@@ -46,7 +57,7 @@
 - 异步JS加载器和依赖管理器库：[script.js](https://github.com/lengxing/script.js)
 - 本地存储工具库：[store.js](https://github.com/lengxing/store.js)
 
-#### 框架
+##### 框架
 
 - 模块加载框架:
 	- [SeaJS](http://seajs.org/docs/)
@@ -71,7 +82,11 @@
 
 #### ②博文精贴
 
-#### ③框架精选
+#### ③框架/库精选
+
+##### 工具库
+
+- 预设css3动画库：[animate.css](http://daneden.github.io/animate.css/)
 
 ###HTML部分
 

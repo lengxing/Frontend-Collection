@@ -173,7 +173,7 @@
 
 	- [博客园-Novice Doodle from Gray Zhang](http://www.otakustay.com) & [宅居]( http://www.cnblogs.com/GrayZhang)：他有两个blog，百度的前端大牛
 
-	- [阮一峰](http://feeds.feedburner.com/ruanyifeng)：由于也有很多关于前端的blog，姑且也算他是前端人士吧。
+	- [阮一峰](http://www.ruanyifeng.com/home.html)：由于也有很多关于前端的blog，姑且也算他是前端人士吧。
 
 	- [INVIS是主要作者，大牛，写js编译器的，关键是，此人才大一啊，不可估量啊](http://typeof.net)
 

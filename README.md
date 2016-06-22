@@ -99,6 +99,82 @@
 
 #### ①浏览器相关
 
-- #####博文精贴
+- ##### 博文精贴
 
 	- [How browsers work--Behind the scenes of modern web browsers (前端必读)](http://www.cnblogs.com/cnwebdeveloper/articles/2234423.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+#### ②热门社区/论坛
+
+- ##### 前端
+	- [前端乱炖](http://www.html-js.com/)
+	- [前端网](http://www.w3cfuns.com/)
+	- [F2E](http://www.f2e.im/)
+	- [爱思社区](http://bbs.aseoe.com/)
+	- [前端里](http://www.yyyweb.com/)
+	- [前端观察](https://www.qianduan.net/)
+	- [Div.IO](http://div.io/)
+	- [w3cplus](http://www.w3cplus.com/)
+	- [大前端](http://www.daqianduan.com/)
+	- [segmentfault](http://segmentfault.com/)
+	- [Node.js 中文社区](http://cnodejs.org/)
+	- [stackoverflow](http://stackoverflow.com/)
+	- [前端De早读课](http://www.zaoduke.net/)
+	- [前端范](http://www.qianduanfan.com/)
+	- [愚人码头](http://www.css88.com/)
+	- [ourjs社区](http://ourjs.com/)
+
+- ##### 开源
+	- [深度开源](http://www.open-open.com/)
+	- []()
+
+- ##### IT开发
+	- []()
+
+- ##### 网站导航
+	- [醉牛前端](http://f2er.club/)
+	- [whycss](http://www.whycss.com/)
+
+- ##### 热门博主
+
+	- [Douglas Crockford](http://javascript.crockford.com/)，JSLint 作者，《语言精粹》作者
+
+	- [John Resig](http://ejohn.org/)，jQuery 作者
+
+	- [Eric Meyer](http://meyerweb.com/)，CSS 相关的 web 标准推广人
+
+	- [Peter Koch](http://www.quirksmode.org/blog/)，主要是 JavaScript API
+
+	- [Paul Irish](http://paulirish.com/)，HTML5 Boilerplate 发起人之一
+
+	- [Alex Russell](http://infrequently.org/)，Chrome team 成员
+
+	- [Nicholas Zakas](http://www.nczonline.net/)，High Performance JavaScript 作者
+
+	- [Dustin Diaz](http://dustindiaz.com/)，前 Googler，现 Twitter
+
+	- [DailyJS](http://dailyjs.com/)，业界新闻博客
+
+	- [limu的砖篮儿](http://limu.iteye.com/rss)
+
+	- [VILIC’s Blog](http://www.vilic.info/blog)：一员小将，功力不俗
+
+	- [老赵](http://blog.zhaojie.me/)
+
+	- [博客园-三生石上](http://www.cnblogs.com/sanshi/rss.aspx)：亦是js领域牛人，耳熟能详的js秘密花园就是其译作。
+
+	- [博客园-Novice Doodle from Gray Zhang](http://www.otakustay.com) & [宅居]( http://www.cnblogs.com/GrayZhang)：他有两个blog，百度的前端大牛
+
+	- [阮一峰](http://feeds.feedburner.com/ruanyifeng)：由于也有很多关于前端的blog，姑且也算他是前端人士吧。
+
+	- [INVIS是主要作者，大牛，写js编译器的，关键是，此人才大一啊，不可估量啊](http://typeof.net)
+
+	- [hax的技术部落格](http://hax.iteye.com/)：也有人提到了，看其博文是种大涨眼界的享受
+
+	- [aimingoo的专栏：爱民老师](http://blog.csdn.net/aimingoo)
+
+	- [博客园-Ruby’s Louvre：司徒正美](http://www.cnblogs.com/rubylouvre)，除了众多博文外，最近亦有mass Framework 释出
+
+	- [博客园-Franky](http://www.cnblogs.com/_franky/)
+
+	- [玉伯](http://lifesinger.wordpress.com)：现在在http://wordpress.com活动，可惜需要翻墙
+

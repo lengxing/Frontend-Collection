@@ -56,6 +56,7 @@
 - 基础工具库：
 	- [jQuery](https://jquery.com/)
 	- [Underscore](http://underscorejs.org/)
+	- [zepto](http://zeptojs.com/):另一个jquery
 - 异步编程库: [queue.js](https://github.com/d3/d3-queue)
 - 异步JS加载器和依赖管理器库：[script.js](https://github.com/lengxing/script.js)
 - 本地存储工具库：[store.js](https://github.com/lengxing/store.js)

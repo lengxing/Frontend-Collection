@@ -11,6 +11,9 @@
 
 #### ②博文精贴
 
+- [深入理解JavaScript系列](http://www.sxrczx.com/docs/js/2286877.html) [备用地址](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+- [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
+
 #### ③框架精选
 
 ##### 插件
@@ -186,4 +189,8 @@
 	- [博客园-Franky](http://www.cnblogs.com/_franky/)
 
 	- [玉伯](http://lifesinger.wordpress.com)：现在在http://wordpress.com活动，可惜需要翻墙
+
+- ##### 资源网站
+
+	- [看云](http://www.kancloud.cn/):在线文档创作、协作、分享与托管
 

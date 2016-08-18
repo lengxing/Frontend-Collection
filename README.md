@@ -210,3 +210,7 @@
 	- [front-end-interview-questions前端开发面试题基础篇](https://github.com/lengxing/front-end-interview-questions)
 	- [frontend-system-map前端知识体系](https://github.com/lengxing/frontend-system-map)
 	- [前端收集](https://github.com/hjzheng/front-end-collect) [备用地址](http://get-set.cn/front-end-collect/)
+	
+- ##### 知乎精选
+
+	- [前端大牛们都学过哪些东西](https://www.zhihu.com/question/22146521)

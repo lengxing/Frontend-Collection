@@ -13,6 +13,8 @@
 
 - [深入理解JavaScript系列](http://www.sxrczx.com/docs/js/2286877.html) [备用地址](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 - [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
+- [深入浅出React](http://www.kancloud.cn/kancloud/react-in-depth/47779)
+- [React-Native学习指南整理](http://www.tuicool.com/articles/zaInUbA)
 
 #### ③框架精选
 
@@ -190,8 +192,11 @@
 	- [博客园-Franky](http://www.cnblogs.com/_franky/)
 
 	- [玉伯](http://lifesinger.wordpress.com)：现在在http://wordpress.com活动，可惜需要翻墙
+	
+	- [国外23位知名JavaScript开发者](http://www.w3ctech.com/topic/107)
 
 - ##### 资源网站
 
-	- [看云](http://www.kancloud.cn/):在线文档创作、协作、分享与托管
+	- [看云](http://www.kancloud.cn/)：在线文档创作、协作、分享与托管
+	- [w3cfuns资源](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book) ：可以下载相关电子书籍
 

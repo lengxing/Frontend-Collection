@@ -8,6 +8,7 @@
 ### >Javascript部分
 
 #### ①相关书籍
+- [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 
 #### ②博文精贴
 
@@ -15,7 +16,8 @@
 - [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 - [深入浅出React](http://www.kancloud.cn/kancloud/react-in-depth/47779)
 - [React-Native学习指南整理](http://www.tuicool.com/articles/zaInUbA)
-
+- [underscore-1.8.3.js 源码解读](https://github.com/lengxing/underscore-analysis)
+- [AngularJS 学习](https://github.com/lengxing/AngularJS-Learning-zh_CN)
 #### ③框架精选
 
 ##### 插件
@@ -200,3 +202,11 @@
 	- [看云](http://www.kancloud.cn/)：在线文档创作、协作、分享与托管
 	- [w3cfuns资源](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book) ：可以下载相关电子书籍
 
+- ##### 其他汇总整理
+
+	- [FKS](http://html5ify.com/fks/) [备用地址](https://github.com/lengxing/fks)
+	- [大前端工具集](https://github.com/lengxing/fetool) [备用地址](http://www.fefork.com/fetool/)
+	- [JavaScript-material-collection](https://github.com/lengxing/JavaScript-material-collection)
+	- [front-end-interview-questions前端开发面试题基础篇](https://github.com/lengxing/front-end-interview-questions)
+	- [frontend-system-map前端知识体系](https://github.com/lengxing/frontend-system-map)
+	- [前端收集](https://github.com/hjzheng/front-end-collect) [备用地址](http://get-set.cn/front-end-collect/)

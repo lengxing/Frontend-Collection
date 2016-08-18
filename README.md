@@ -43,6 +43,7 @@
 	- [Sortable](http://rubaxa.github.io/Sortable/)
 - 延时加载插件：[jquery.lazyload.js](http://www.appelsiini.net/projects/lazyload)
 - 通知插件: [toastr](http://codeseven.github.io/toastr/)
+- 无缝滚动: [kxbdmarquee](http://code.ciaoca.com/jquery/kxbdmarquee/)
 
 ##### 工具库
 
@@ -69,8 +70,9 @@
 - MVC应用框架：
 	- [Backbone.js](http://backbonejs.org/)
 	- [Ember.js](http://emberjs.com/)
-	- [JX](http://alloyteam.github.io/JX/)(腾讯web前端框架)
+	- [JX](http://alloyteam.github.io/JX/) (*腾讯web前端框架*)
 	- [Spine.js](http://spinejs.com/)
+	- [Reactjs](https://facebook.github.io/react/) (*時下火爆的前端框架*)
 - MVVM应用框架：
 	- [AngularJS](https://www.angularjs.org/)
 	- [Vue.js](http://vuejs.org/)
@@ -126,13 +128,12 @@
 	- [前端范](http://www.qianduanfan.com/)
 	- [愚人码头](http://www.css88.com/)
 	- [ourjs社区](http://ourjs.com/)
-
+	- [有料到](https://isux.tencent.com/)
+	
 - ##### 开源
 	- [深度开源](http://www.open-open.com/)
-	- []()
 
 - ##### IT开发
-	- []()
 
 - ##### 网站导航
 	- [醉牛前端](http://f2er.club/)
@@ -145,7 +146,6 @@
 	- [H-ui IT网址导航](http://www.h-ui.net/site.shtml)
 	- [前端开发点](http://fd.1t1d.com/)
 	- [前端资源导航](http://www.f2enav.com/)
-	- []()
 
 - ##### 热门博主
 

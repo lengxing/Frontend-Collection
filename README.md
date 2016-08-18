@@ -210,6 +210,7 @@
 	- [front-end-interview-questions前端开发面试题基础篇](https://github.com/lengxing/front-end-interview-questions)
 	- [frontend-system-map前端知识体系](https://github.com/lengxing/frontend-system-map)
 	- [前端收集](https://github.com/hjzheng/front-end-collect) [备用地址](http://get-set.cn/front-end-collect/)
+	- [(精华)前端资源教程](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)
 	
 - ##### 知乎精选
 

@@ -201,6 +201,7 @@
 
 	- [看云](http://www.kancloud.cn/)：在线文档创作、协作、分享与托管
 	- [w3cfuns资源](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book) ：可以下载相关电子书籍
+	- [IT Ebooks](http://www.it-ebooks.info/)
 
 - ##### 其他汇总整理
 

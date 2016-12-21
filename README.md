@@ -49,7 +49,6 @@
 - 通知插件: [toastr](http://codeseven.github.io/toastr/)
 - 无缝滚动: [kxbdmarquee](http://code.ciaoca.com/jquery/kxbdmarquee/)
 - 移动端触摸滑动插件: [Swiper](http://www.swiper.com.cn/)
-- 
 
 ##### 工具库
 

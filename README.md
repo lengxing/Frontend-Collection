@@ -48,6 +48,8 @@
 - 延时加载插件：[jquery.lazyload.js](http://www.appelsiini.net/projects/lazyload)
 - 通知插件: [toastr](http://codeseven.github.io/toastr/)
 - 无缝滚动: [kxbdmarquee](http://code.ciaoca.com/jquery/kxbdmarquee/)
+- 移动端触摸滑动插件: [Swiper](http://www.swiper.com.cn/)
+- 
 
 ##### 工具库
 
@@ -65,6 +67,7 @@
 - 异步编程库: [queue.js](https://github.com/d3/d3-queue)
 - 异步JS加载器和依赖管理器库：[script.js](https://github.com/lengxing/script.js)
 - 本地存储工具库：[store.js](https://github.com/lengxing/store.js)
+- 视差滚动: [skrollr](https://github.com/lengxing/skrollr)
 
 ##### 框架
 
